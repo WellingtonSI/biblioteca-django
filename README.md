@@ -1,5 +1,3 @@
-# Meu Projeto Django Rest Framework
-
 ## Descrição
 
 Este é um projeto de exemplo que utiliza o Django Rest Framework (DRF) para criar uma API RESTful simulando sistema de cadastros em biblioteca. O projeto inclui autenticação de usuários, CRUD (Create, Read, Update, Delete) para modelos de exemplo como `Autor`, `Categoria`, `Livro` e `Colecao`.
